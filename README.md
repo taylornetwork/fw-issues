@@ -1,2 +1,1 @@
-# fw-issues
-Issues for the FW app
+# Issues only repository for the FW app
