@@ -1,4 +1,4 @@
-# Issues only repository for the FW app
+# FW - Issues 
 
 [View Issues](https://github.com/taylornetwork/fw-issues/issues)
 
